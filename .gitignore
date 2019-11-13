@@ -12,3 +12,8 @@
 /captures
 .externalNativeBuild
 .cxx
+/flutter_module/.metadata
+/flutter_module/.project
+/flutter_module/.settings/
+/flutter_module/.vscode/
+flutter_module/test/
